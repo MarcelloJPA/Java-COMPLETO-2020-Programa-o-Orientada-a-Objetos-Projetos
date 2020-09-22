@@ -39,7 +39,7 @@ public class Ex05 {
 		
 		valorTotal = resultado1 + resultado2;
 		
-		System.out.printf("VALOR A PAGAR: %.2f ", valorTotal);
+		System.out.printf("VALOR A PAGAR: $ %.2f ", valorTotal);
 		
 
 	}

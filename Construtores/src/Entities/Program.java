@@ -1,5 +1,9 @@
 package Entities;
-
+/*
+O construtor é um método cujo o nome deve ser o mesmo da classe sem indicação de retorno, nem mesmo void.
+O construtor é invocado na criação do objeto, através do operador new.
+O construtor pode receber argumentos.
+*/
 
 import java.util.Locale;
 import java.util.Scanner;

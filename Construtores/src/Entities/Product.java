@@ -7,6 +7,7 @@ public class Product {
 	public int quantity;
 	
 	
+	
 	//Criando Construtor
 	public Product(String name, double price, int quantity) {
 		this.name = name;
@@ -15,3 +16,8 @@ public class Product {
 	}
 
 }
+/*
+O construtor é um método cujo o nome deve ser o mesmo da classe sem indicação de retorno, nem mesmo void.
+O construtor é invocado na criação do objeto, através do operador new.
+O construtor pode receber argumentos.
+*/
