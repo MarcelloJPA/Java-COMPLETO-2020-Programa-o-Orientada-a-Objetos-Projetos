@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fc3f3cd-8a45-4f32-a65a-0f5d20468dcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GetSeters/src/Entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/GetSeters/src/Entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Motel/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Motel/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Motel/src/entities/Pensionato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Motel/src/entities/Pensionato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VectorJava/src/Entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/VectorJava/src/Entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VectorJava/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/VectorJava/src/Program.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iDQwAXR0hSnPXZEb2Xv2OLCnPE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc3f3cd-8a45-4f32-a65a-0f5d20468dcf" name="Default Changelist" comment="" />
+      <created>1601439919000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601439919000</updated>
+      <workItem from="1601439920953" duration="296000" />
+      <workItem from="1601440250619" duration="80000" />
+      <workItem from="1602270652019" duration="82000" />
+      <workItem from="1602274668334" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="302" key="FileChooserDialogImpl" timestamp="1601440310554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="302" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601440310554" />
+    <state x="342" y="181" key="new project wizard" timestamp="1602275296198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="181" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602275296198" />
+  </component>
+</project>

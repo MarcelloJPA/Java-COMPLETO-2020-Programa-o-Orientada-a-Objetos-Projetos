@@ -33,10 +33,14 @@ public class Product {
 		 this.name = name;
 	}
 	
+	//Getter (Retornar atributo)
 	public double getPrice() {
 		return price;
 	}
 	
+	
+	//Setter (Alterar atributo)
+		//void (Não retorna nada)
 	public void setPrice(double price) {
 		this.price = price;
 	}

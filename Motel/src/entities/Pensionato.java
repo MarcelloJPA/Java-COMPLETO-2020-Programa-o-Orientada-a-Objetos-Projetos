@@ -1,4 +1,4 @@
-package Entities {
+package entities;
 public class Pensionato {
 
     private String name;
@@ -30,5 +30,4 @@ public class Pensionato {
 
 
 
-}
 }
