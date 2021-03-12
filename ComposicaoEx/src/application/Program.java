@@ -22,13 +22,13 @@ public class Program {
 
         System.out.println("Descrição do Trabalhador");
 
-        System.out.print("Nome");
+        System.out.println("Nome");
         String nomeTrabalhador = sc.nextLine();
 
-        System.out.print("Nivel");
+        System.out.println("Nivel");
         String level = sc.nextLine();
 
-        System.out.print("Salario Base");
+        System.out.println("Salario Base");
         Double salaryBase = sc.nextDouble();
 
         Worker worker = new Worker(nomeTrabalhador, WorkerLevel.valueOf(level), salaryBase,  new Departament(departament));
@@ -37,9 +37,9 @@ public class Program {
          int n = sc.nextInt();
 
          for(int i=1; i<=n; i++){
-            System.out.print("Entre com o contrato" + i );
+            System.out.println("Entre com o contrato " + i );
 
-            System.out.print("Data: ");
+            System.out.println("Data do Contrato: ");
              Date contractDate = sdf.parse(sc.next());
 
              System.out.print("Valor por Hora");
@@ -50,7 +50,8 @@ public class Program {
 
             HourContract contract = new HourContract(contractDate, valorPorHora, horas);
 
-            worker.
+            System.out.println( worker.getContracts());
+
 
 
          }

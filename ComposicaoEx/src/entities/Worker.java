@@ -61,7 +61,7 @@ public class Worker {
     }
 
     public void addContract(HourContract contract){
-        contracts.add(contract);
+        this.contracts.add(contract);
     }
 
     public void removeContract(HourContract contract){
